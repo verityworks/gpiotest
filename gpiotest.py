@@ -257,6 +257,7 @@ def getRaspiModel(argument):
         "a22082": "3 Model B 1Gb",
         "a32082": "3 Model B 1Gb",
         "a020d3": "3 Model B+ 1Gb",
+        "a020d4": "3 Model B+ 1Gb"
         "9020e0": "3 Model A+ 512Mb",
         "a03111": "4 Model B 1Gb",
         "b03111": "4 Model B 2Gb",
